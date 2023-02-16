@@ -6,6 +6,10 @@ Demographic data comes from the 2020 census and the American Community Survey (A
 
 The 2022 districts were created using the block equivalency files provided by the census. These can be found here: https://www.census.gov/geographies/mapping-files/2023/dec/rdo/118-congressional-district-bef.html
 
+Classification of districts into Democratic, Republican, or competitive comes from The Cook Political Report. 
+
+Electoral data comes from the MIT Election Lab. Data for the 2022 elections comes from the New York Times.  
+
 The figures in the report are created with Datawrapper. The R code creates the necessary csv files that are then linked to Datawrapper to create the figures. 
 
 For questions, please email: pocasangre@newamerica.org
