@@ -1,6 +1,7 @@
 # Notes on data
 
 The public opinion data comes from the Nationscape/UCLA survey. The raw data set with thorough documentation and codebooks can be found here https://www.voterstudygroup.org/data/nationscape.
+The cleaned dataset used for the report is too big for github and can be found here https://drive.google.com/file/d/1bR_9uncFCvW1Nva49QoOdKnB74nDa8AT/view?usp=share_link
 
 Demographic data comes from the 2020 census and the American Community Survey (ACS). 
 
