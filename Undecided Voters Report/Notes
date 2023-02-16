@@ -1,0 +1,11 @@
+# Notes on data
+
+The public opinion data comes from the Nationscape/UCLA survey. The raw data set with thorough documentation and codebooks can be found here https://www.voterstudygroup.org/data/nationscape.
+
+The figures in the report are created with Datawrapper. The R code creates the necessary csv files that are then linked to Datawrapper to create the figures. 
+
+Classification of districts into Democratic, Republican, or competitive comes from The Cook Political Report. 
+
+Electoral data comes from the MIT Election Lab. 
+
+For questions, please email: pocasangre@newamerica.org
